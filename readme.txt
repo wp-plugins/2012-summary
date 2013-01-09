@@ -5,7 +5,7 @@ Donate link: http://flattr.com/thing/1093328/2012-Summary
 Tags: word count, summary, 2012, stats, statistics
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 
 == Description ==
