@@ -36,7 +36,7 @@ More on [www.lioman.de](http://www.lioman.de/plugins-scripte/2012-summary "WordP
 
 == Changelog ==
 = 0.1.1 =
-* Change of plugi url to wordpress directory
+* Change of plugin url to wordpress directory
 = 0.1 =
 * Initial Release
 
